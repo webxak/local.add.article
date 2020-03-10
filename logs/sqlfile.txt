@@ -1,0 +1,7 @@
+Ошибка запроса insert
+10-03-2020 13:31:21
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'user.xxx_author' doesn't exist
+Файл: C:\OSPanel\domains\local.crud\app\core\Database.php
+Строка: 38
+Код: 42S02
+=========
